@@ -1,4 +1,5 @@
-package com.alan.cuentabancaria;
+package com.maiccol
+    .cuentabancaria;
 
 public class CuentaAhorros extends CuentaBancaria {
     //Declaramos una variable de tipo booleano
