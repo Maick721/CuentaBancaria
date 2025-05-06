@@ -1,5 +1,5 @@
 package com.alan.cuentabancaria;
-/*Desarrollador:Alan Velasco
+/*Desarrollador:Maiccol Zurita
 * fecha:05/05/2025
 * descripcion: Clase padre de nombre CuentaBancaria
  * donde se van a crear metodos de deposito y retiro*/
